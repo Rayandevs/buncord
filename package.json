@@ -1,0 +1,15 @@
+{
+  "name": "buncord",
+  "version": "0.0.10",
+  "description": "Buncord, a API for your Discord bot.",
+  "main": "API/main.js",
+  "scripts": {
+    "test": "node __test__"
+  },
+  "author": "0saphhy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "prompts": "^2.4.2"
+  }
+}
